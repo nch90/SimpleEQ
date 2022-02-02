@@ -1,0 +1,1 @@
+This is a VST plugin in process which will be a 3 band Simple EQ with graph, LP, HP and BP emphasis.
